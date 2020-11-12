@@ -12,7 +12,6 @@ export default class App extends Router.App {
       Background: {
         w: 1920,
         h: 1080,
-        src: Utils.asset("images/sitebg.png"),
       },
     };
   }
